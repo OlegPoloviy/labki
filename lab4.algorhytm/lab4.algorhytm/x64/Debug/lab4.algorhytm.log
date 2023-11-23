@@ -1,0 +1,5 @@
+﻿  lab4.algorhytm.cpp
+C:\Users\Lenovo\Desktop\oop\lab4.algorhytm\lab4.algorhytm\lab4.algorhytm.cpp(35,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\Desktop\oop\lab4.algorhytm\lab4.algorhytm\lab4.algorhytm.cpp(41,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\Desktop\oop\lab4.algorhytm\lab4.algorhytm\lab4.algorhytm.cpp(53,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.algorhytm.vcxproj -> C:\Users\Lenovo\Desktop\oop\lab4.algorhytm\x64\Debug\lab4.algorhytm.exe

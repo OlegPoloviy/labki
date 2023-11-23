@@ -1,0 +1,7 @@
+﻿  oop v2.cpp
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(9,33): warning C4244: return: преобразование "long double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(30,10): error C2872: data: неоднозначный символ
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(5,7): message : может быть "data"
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(30,10): message : или       "data"
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(31,24): warning C4305: =: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\oop\oop v2\oop v2\oop v2.cpp(33,22): warning C4305: =: усечение из "double" в "float"

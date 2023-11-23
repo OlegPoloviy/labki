@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\Lenovo\Desktop\oop\lab4\lab4\lab4.cpp(15,6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\oop\lab4\lab4\lab4.cpp(16,6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\oop\lab4\lab4\lab4.cpp(17,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab4.vcxproj -> C:\Users\Lenovo\Desktop\oop\lab4\x64\Debug\lab4.exe
